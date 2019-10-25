@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Cute+Font|Gaegu|Modak&display=swap&subset=devanagari,korean,latin-ext');
+*:before, *:after {box-sizing: border-box;}
+body{
+	margin:0;
+}
+#header {
+	width:100%;
+	height: 100px;
+}
+.navbar{
+	width:100%;
+	height: 100px;
+	background: white;
+}
+#top {
+	width: 100%;
+	height: 30%;
+	text-align: right;
+	padding: 5px;
+}
+
+#bottom {
+	width: 100%;
+	height: 70%;
+	display: flex;
+}
+
+
+#logo {
+	width: 25%;
+	margin: auto 0;
+	height:50px;
+	flex: 1;
+}
+.top-nav li{
+	line-style-type: none;
+	display: inline;
+	text-align: left;
+}
+
+#menu {
+	width: 65%;
+	margin: auto 0;
+	padding: 0;
+	flex: 9;
+}
+
+.logo {
+	font-size:40px;
+	color: red;
+	font-family: 'Modak', cursive;
+}
+
+.menu-list {
+	text-align: right;
+	font-size: 28px;
+	font-family:'Cute Font', cursive;
+}
+
+a {
+	text-decoration: none;
+}
+
+.menu-list li {
+	line-style-type: none;
+	display: inline;
+	text-align: left;
+	padding: 0;
+	margin: 0px;
+}
+
+ul {
+	margin: 5px;
+}

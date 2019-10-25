@@ -1,0 +1,17 @@
+.content .showimg1{
+	max-width: 200px;
+	max-height: 300px;
+	padding: 0;
+	margin:2px;
+}
+
+.content .showimg2{
+	max-height: 300px;
+	max-width: 400px;
+	padding: 0;
+	margin:2px;
+}
+
+.modal-body img{
+	width:100%;
+}

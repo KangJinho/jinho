@@ -1,0 +1,17 @@
+.body{
+	min-height: 640px;
+}
+li{
+	display: inline;
+	font-family:'Cute Font', cursive;
+	text-align: right;
+}
+
+.carousel{
+	height: 500px;
+}
+.item .image{
+	width: 825px;
+	height: 480px;
+	margin:auto;
+}

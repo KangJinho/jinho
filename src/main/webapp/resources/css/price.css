@@ -1,0 +1,27 @@
+.oriprice{
+	font-size :15px;
+	font-family:'Changa',Sans-serif;
+	padding-left:20px;
+}
+.price{
+	font-size: 20px;
+	font-family:'Changa',Sans-serif;
+	color:red;
+}
+.under{
+	width:30px;
+	height:30px;
+	margin-left: 15px;
+}
+p{
+	margin:0;
+}
+h3{
+	font-family: 'Changa One', Sans-Serif;
+}
+.sale{
+	font-family: 'Changa One', Sans-Serif;
+	font-weight:bold;
+	font-size: 25px;
+	color:red;
+}
